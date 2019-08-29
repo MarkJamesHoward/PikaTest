@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../dist-src/index.js"],"sourcesContent":["export function DoSomething() {\n  return \"done\";\n}"],"names":["DoSomething"],"mappings":";;;;AAAO,SAASA,WAAT,GAAuB;SACrB,MAAP;;;;;"}

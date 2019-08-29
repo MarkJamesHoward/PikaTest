@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../dist-src/index.js"],"sourcesContent":["export function DoSomething() {\n  return \"done\";\n}"],"names":[],"mappings":"AAAO,SAAS,WAAW,GAAG;EAC5B,OAAO,MAAM,CAAC;;;;;"}
